@@ -10,13 +10,13 @@
 - **Web development:** Version being tested with developers.
 - **Vault logos:** first iteration final
 - **Localization:** three more languages added to docs
-- **Generalized keep3r bot**, that can be tailored to specific strategies 
+- **Generalized keep3r bot**, that can be tailored to specific strategies
 
 ### 1.2 Doing
 
 - **POAP:** In progress, should be finished next few days
 - **yHegic Vault:** Further testing
-- **Feeltheyearn API update** improving responsiveness and data structure 
+- **Feeltheyearn API update** improving responsiveness and data structure
 - **New keep3r strategies**, thoughts around mitigation of exploits of `harvest()` and `earn()` function calls
 - **DCA trading of ERC20s**, continued work in progress.
 - **Review of forum structure**, work in progress
@@ -32,14 +32,16 @@
 - **v1 stablecoin strategies fixed**, no longer vulnerable to attacks, possibly worth considering deploying some again on v1 still? (discussed further below)
 
 ### 1.3 To do
-- **Maker YFI strategy**, maker is increasing debt ceiling to $20m YFI -> get YFIUSD oracle whitelisted on maker to create a strategy for this. 
+
+- **Maker YFI strategy**, maker is increasing debt ceiling to \$20m YFI -> get YFIUSD oracle whitelisted on maker to create a strategy for this.
 - **Vault2 flows**, and additional documentation.
 - **Compound vault**
 - **Test v2 sandwich attacks**
 
 ### 1.4 Blocked
+
 - **yUSD2**, put on hold, more research needed to understand motivation.
-- **CeFi Exchange Integration SDK**, discussion has progressed a bit with Gemini, still not clear when we can move on it, but talks about launching vaults v2 with the GUSD vault (more below). 
+- **CeFi Exchange Integration SDK**, discussion has progressed a bit with Gemini, still not clear when we can move on it, but talks about launching vaults v2 with the GUSD vault (more below).
 
 ### 1.5 No update since last meeting
 
@@ -54,9 +56,10 @@
 ### 2.1 Vault v2 migration plan
 
 Summary:
-* Phased rollout, starting with smaller strats first with low TVL
-* Anything above $10m we want to avoid migrating early
-* **veCRV** vault to stay on v1 as there's no withdrawal
-* **yUSD** given TVL and complexity may not ever move over, tbd
-* **GUSD** to be the initial launch strategy for vault v2, given low TVL, low risk, and positive for Gemini relationship
-* **TUSD** strategy to be upgraded by Orb and then re-opened on v1 still, no need to wait for it to v2
+
+- Phased rollout, starting with smaller strats first with low TVL
+- Anything above \$10m we want to avoid migrating early
+- **veCRV** vault to stay on v1 as there's no withdrawal
+- **yUSD** given TVL and complexity may not ever move over, tbd
+- **GUSD** to be the initial launch strategy for vault v2, given low TVL, low risk, and positive for Gemini relationship
+- **TUSD** strategy to be upgraded by Orb and then re-opened on v1 still, no need to wait for it to v2
