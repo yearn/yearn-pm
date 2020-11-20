@@ -1,16 +1,22 @@
 # Meeting notes: Doers standup call Nov 18 2020
 
-**Attendance:** Banteg, Doggie, Facu, Graham, Klim, Lehnberg, Luciano, Orb, Santiago
+**Attendance:** Banteg, Doggie, Facu, Graham, Klim, Lehnberg, Luciano, Orb, Santiago, x48 (sent written update)
 
 ## 1. Updates from the standup
 
 ### 1.1 Done
 
 - **[YIP-54](https://gov.yearn.finance/t/yip-54-formalize-operations-funding/): Formalize operations funding**, written and passed.
-- **Web development:** Version being tested with developers.
 - **Vault logos:** first iteration final
 - **Localization:** three more languages added to docs
 - **Generalized keep3r bot**, that can be tailored to specific strategies
+- **Web development:** First pass at vaults page for v2 yearn UI being tested with developers, new functionality include:
+   * notify.js
+   * support for "dev mode" contract watching
+   * support for easily calling write methods
+   * generic modal that allows any write method to be called
+   * batching contract state update requests (one json-rpc call instead of 100+)
+   * websocket server that caches vault transaction and state and broadcasts state/tx diffs when contracts are touched in a block, **front-end demo** live at http://yevents.finance
 
 ### 1.2 Doing
 
@@ -30,6 +36,11 @@
 - **Subgraph re-write**, handed over to chris.eth
 - **DeBank** now lists Yearn and shows [accurate TVL](https://debank.com/ranking/locked_value)
 - **v1 stablecoin strategies fixed**, no longer vulnerable to attacks, possibly worth considering deploying some again on v1 still? (discussed further below)
+- **Yearn web UI v2**:
+   - Refactoring to use batched requests as above, possibly also adding support for configurable batch sizes.
+   - Integrate websockets support (yevents)
+   - Update pending that drastically increases the stability and decreases lag due to re-renders
+   - Load limit testing (load 100 watched contracts, for example)
 
 ### 1.3 To do
 
@@ -37,6 +48,7 @@
 - **Vault2 flows**, and additional documentation.
 - **Compound vault**
 - **Test v2 sandwich attacks**
+- **Yearn v2 UI:** Begin implementing other Yearn UI v2 pages, like stats and governance staking.
 
 ### 1.4 Blocked
 
