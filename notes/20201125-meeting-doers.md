@@ -15,13 +15,13 @@
 - **Argent integration** has just shipped.
 - **Backscratcher vault** upgraded to be able to claim rewards.
 - **Bached transactions deep dive:**
-   - https://github.com/x48-crypto/web3-batch-call
-   - Website demo: https://batchcall.finance
-   - Benchmarks tested on private alchemy instance, able to perform ~15,000 calls in ~6s when batched into groups of 1k calls. ~5k tx in about 1.5 seconds.
-   - Previously each method call represented both a http request (web3 req) and in some-cases a re-render, resulting in lots of lag.
-
+  - https://github.com/x48-crypto/web3-batch-call
+  - Website demo: https://batchcall.finance
+  - Benchmarks tested on private alchemy instance, able to perform ~15,000 calls in ~6s when batched into groups of 1k calls. ~5k tx in about 1.5 seconds.
+  - Previously each method call represented both a http request (web3 req) and in some-cases a re-render, resulting in lots of lag.
 
 ### 1.2 Doing
+
 - **New due diligence fires popping up** that need to be put out. 🔥
 - **New keep3r strategies**, for vaults and strategies.
 - **Governance swaps deployed**, need further testing.
@@ -34,7 +34,7 @@
 - **yGift** expected to launch tomorrow (see below).
 - **Brand book** almost complete, missing a couple of logos, naming standard is on github.
 - **Community AMA** this friday in social channels.
-- **YFI/BNT liquidity mining** with Bancor, voting in progress 
+- **YFI/BNT liquidity mining** with Bancor, voting in progress
 - **Yearn web UI v2** in progress, finishing upgrading drizzle with batched requests.
 
 ### 1.3 To do
@@ -43,7 +43,6 @@
 - **Vault2 flows**, and additional documentation.
 - **Yearn v2 UI:** Release more pages, coordinating with Future/Nebula to ensure designs are ready.
 
-
 ### 1.4 Blocked
 
 - **Grants payments**, on hold until Chainsecurity audit funds have been sent.
@@ -51,6 +50,7 @@
 ## 2. Other topics
 
 ### 2.1. yGift
+
 - First version launching tomorrow
 - Grants and gifts for yearn, as NFTs
 - ERC-721 + ERC-20 tokens, like a gift card + envelope
@@ -60,6 +60,7 @@
 - Could be used for vesting, as smaller gifts that cannot be stopped or revoked once awarded.
 
 ### 2.2 Grants DAO
+
 - New proposal yesterday
 - Proposal for giving away grants
 - 1-time grants for now
