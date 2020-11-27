@@ -4,6 +4,7 @@
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Nov 25 | [Notes](notes/20201125-meeting-doers.md) |
 | Nov 18 | [Notes](notes/20201118-meeting-doers.md) |
 | Nov 11 | [Notes](notes/20201111-meeting-doers.md) |
 | Nov 04 | [Notes](notes/20201104-meeting-doers.md) |
