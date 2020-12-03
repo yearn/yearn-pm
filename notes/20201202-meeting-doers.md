@@ -7,7 +7,7 @@
 ### 1.1 Done
 
 - **Partnerships week:** Adding to last week's PICKLE, a few more co-operation announcements were made with [CREAM](https://medium.com/iearn/yearn-cream-v2-merger-e9fa6c6989b4), [COVER](https://medium.com/iearn/yearn-cover-merger-651142828c45), [AKRO](https://medium.com/iearn/μα-τον-δια-yearn-x-akropolis-16f5351af35e), and [SUSHI](https://medium.com/iearn/yearn-x-sushi-行ってきます-41b2f78b62e9).
-- **$CORNICHON**, Pickle's IOU token created + distribution snapshot 
+- **$CORNICHON**, Pickle's IOU token created + distribution snapshot
 - **yGift launched**, distributions made for October, with November coming soon
 - **Vault Ape Guestlist**, first version finished and shipped, with added functionality like having one guest list for all the vaults
 - **Governance swaps released**, waiting for test results
@@ -58,12 +58,15 @@ N/A
 3. Audit 3: #10m+
 
 #### TVL Data
+
 Questions about whether vaults could keep accurate tabs of TVLs
 
-#### Launch vaults 
+#### Launch vaults
+
 WETH or WBTC potentially, tbc
 
 #### Treasury
+
 New treasury contract is a potential blocker -> Luciano taking it on to deliver.
 
 ### 2.2 Vaults v1 Strategies
@@ -75,6 +78,7 @@ New treasury contract is a potential blocker -> Luciano taking it on to deliver.
 ### 2.3 Yearn family
 
 Integrations of projects:
+
 - lots of stuff happening,
 - slow and steady
 - no immediate extra actions needed at this moment
