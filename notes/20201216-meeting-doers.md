@@ -18,14 +18,13 @@
 - **Frontend**, lending section on yearn.finance, cover section
 - **Curve distributions** done
 
-
 ### 1.2 Doing
 
 - **yGift2**, potential rarible integration for v2
 - **Vault registry**, design finalized, in testing phase
 - **Curve dao vaults**, auditing underway
 - **3rd vault audit**, meeting with auditor next week
-- **Strategy audits**, 3-5 auditors in contact, some in progress, we have more demand than we have auditors, testing different approaches and quality 
+- **Strategy audits**, 3-5 auditors in contact, some in progress, we have more demand than we have auditors, testing different approaches and quality
 - **Governance**, proposal to come in jan
 - **Strategy process**, draft in wip
 - **Treasury**, in progress
@@ -42,7 +41,9 @@
 - **Help needed:** Figure out how to read claimable amount in backscratcher vault and add it to the ui, picked up by Facu
 
 ### 1.4 Blocked
+
 N/A
 
 ## 2. Other topics
+
 - No call next week
