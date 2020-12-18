@@ -46,4 +46,4 @@ N/A
 
 ## 2. Other topics
 
-- No call next week
+- No call next week (Merry yMas)
