@@ -7,6 +7,7 @@
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Dec 16 | [Notes](notes/20201216-meeting-doers.md) |
 | Dec 09 | [Notes](notes/20201209-meeting-doers.md) |
 | Dec 02 | [Notes](notes/20201202-meeting-doers.md) |
 | Nov 25 | [Notes](notes/20201125-meeting-doers.md) |
