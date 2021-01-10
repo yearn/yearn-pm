@@ -5,6 +5,12 @@
 
 ## Doers meeting notes
 
+### 2021
+| Date   | Notes                                    |
+| ------ | ---------------------------------------- |
+| Jan 06 | [Notes](notes/20210106-meeting-doers.md) |
+
+### 2020
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
 | Dec 16 | [Notes](notes/20201216-meeting-doers.md) |
