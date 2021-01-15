@@ -8,6 +8,7 @@
 ### 2021
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Jan 13 | [Notes](notes/20210113-meeting-doers.md) |
 | Jan 06 | [Notes](notes/20210106-meeting-doers.md) |
 
 ### 2020
