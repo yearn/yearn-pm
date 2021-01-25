@@ -1,6 +1,7 @@
 # Meeting notes: Doers standup call Jan 20 2021
 
 ## Attendance
+
 - DarkGhosty
 - Dudesahn
 - Nebula
@@ -57,7 +58,7 @@
 ### 1.3 To do
 
 - **new devs:** discussion bringing more onboard
-- **automate keep3rs** 
+- **automate keep3rs**
 - **treasury:** define new specs & mgmt algo
 - **lazy ape:** roll out
 - **YFI staking:** new proposal
@@ -69,6 +70,7 @@
 - **keep3r:** provide liqudity
 
 ### 1.4 Blocked
+
 - **Multisig transition:** Proposal on hold for brrrr
 - **Decentralized ops 1-pager:** On hold for brrrr
 - **Gov msig signing speeds,** slows down strat work
@@ -78,7 +80,7 @@
 
 ### 2.1 V2 launch
 
-- Overall, went well, some things broke but it wasn't the *wrong* decision. Still leaves room for improvement.
+- Overall, went well, some things broke but it wasn't the _wrong_ decision. Still leaves room for improvement.
 - Very high expectations hard to meet them
 - Rushed release
 - Lots of stuff to fix, some last minute fixes not in
@@ -96,6 +98,7 @@
 - Mint for 22% 6666 YFI
 - Draft proposal available for review
 
-### 2.3 Eth vault 
+### 2.3 Eth vault
+
 - V2 preferred
 - Doug to work with orb to clarify a path forward
