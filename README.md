@@ -11,6 +11,7 @@
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Feb 03 | [Notes](notes/20210203-meeting-doers.md) |
 | Jan 27 | [Notes](notes/20210127-meeting-doers.md) |
 | Jan 20 | [Notes](notes/20210120-meeting-doers.md) |
 | Jan 13 | [Notes](notes/20210113-meeting-doers.md) |
