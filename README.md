@@ -1,16 +1,20 @@
 # Yearn project management resources and docs
 
 ## Quarterly Financial Reports
-* 2020 Q3 (Aug-Oct): [PDF](financials/reports/2020Q3-yearn-quarterly-report.pdf)
+
+- 2020 Q3 (Aug-Oct): [PDF](financials/reports/2020Q3-yearn-quarterly-report.pdf)
 
 ## Doers meeting notes
 
 ### 2021
+
 <details open>
 <summary>Expand/collapse list of notes</summary>
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Feb 17 | [Notes](notes/20210217-meeting-doers.md) |
+| Feb 10 | [Notes](notes/20210210-meeting-doers.md) |
 | Feb 03 | [Notes](notes/20210203-meeting-doers.md) |
 | Jan 27 | [Notes](notes/20210127-meeting-doers.md) |
 | Jan 20 | [Notes](notes/20210120-meeting-doers.md) |
@@ -20,6 +24,7 @@
 </details>
 
 ### 2020
+
 <details closed>
 <summary>Expand/collapse list of notes</summary>
 
