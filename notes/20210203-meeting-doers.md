@@ -1,7 +1,5 @@
 # Meeting notes: Doers standup call Feb 03 2021
 
-# Doers Feb 03 2021
-
 ## Attendance
 
 - Nebula
