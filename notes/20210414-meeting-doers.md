@@ -7,7 +7,7 @@
 - luciano
 - klim
 - doug
-- bob the builder
+- bob the buidler
 - bull
 - facu
 - tracheopteryx
