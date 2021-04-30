@@ -14,6 +14,7 @@
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Apr 28 | [Notes](notes/20210428-meeting-doers.md) |
 | Apr 21 | [Notes](notes/20210421-meeting-doers.md) |
 | Apr 14 | [Notes](notes/20210414-meeting-doers.md) |
 | Apr 07 | [Notes](notes/20210407-meeting-doers.md) |
