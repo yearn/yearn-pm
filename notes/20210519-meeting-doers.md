@@ -36,7 +36,7 @@
 - yOracle proof of concept
 - ySwapper proof of concept    
 - Subgraph updates: addStrategy and StrategyReportResult
-- Incident analysis of [strategy proxy](https://github.com/yearn/yearn-security/blob/master/disclosures/2020-09-25.md)
+- Incident analysis of [strategy proxy](https://github.com/yearn/yearn-security/blob/master/disclosures/2021-05-13.md)
 - Incident analysis of [single-sided curve strategy: estimate assets](https://github.com/yearn/yearn-security/blob/master/disclosures/2021-05-14.md)
 - SDK MVP & updates
 - Updated gauge weight voter for metapool support
