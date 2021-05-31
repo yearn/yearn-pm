@@ -35,7 +35,7 @@
 - ySuperbooster alpha 
 - SNX strategy [audit](https://github.com/yearn/yearn-security/blob/master/audits/20210526_MixBytes_yearn_strategies_snx/MixBytes_-_Yearn_Strategies_SNX_Contracts_Audit_Report.pdf)
 - SDK updates
-- v2 IPFS: [yearnmirror.eth.link](yearnmirror.eth.link)
+- v2 IPFS: [yearnmirror.eth.link](https://yearnmirror.eth.link)
 - Real-time notification system alpha build
 - Strategy harvest simulator alpha build
 - Deploy and test transaction-watcher
