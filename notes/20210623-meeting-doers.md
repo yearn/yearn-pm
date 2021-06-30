@@ -29,12 +29,12 @@
 - SDK updates
 
 **Strategies:**
-- Review Gen Lev Comp & single-sided curve updates
+- Review Gen Lev Comp & Single-sided Curve updates
 - Review router & yvBoost zap
 
 **Strategist:**
 - Review strategy registry
-- Fee change proposal draft
+- Draft fee change proposal
 
 **Keep3r:**
 - Iterate StealthTx
@@ -55,6 +55,7 @@
 - API updates    
 - v2 upgrade Blocknative Onboard
 - Yearn meta strategy updates
+
 **Governance/Ops:**
 - Finalize yTeams and [publish](https://gov.yearn.finance/t/introducing-your-yteam-signers/11030)
 - Iterate on open source contributors model    
@@ -122,6 +123,7 @@
 - Transaction-watcher beta
 - SDK updates
 - v2 yVault migration to > 0.3.5
+
 **Strategies:**
 - Review kashi lender
 
@@ -140,7 +142,7 @@
 - v3 style/UI updates based on MVP designs
 
 **Governance/Ops:**
-- draft Yearn Principles 
+- Draft Yearn Principles 
 
 **Treasury:**
 - Reimbursements
