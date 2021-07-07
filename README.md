@@ -14,6 +14,7 @@
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Jun 30 | [Notes](notes/20210630-meeting-doers.md) |
 | Jun 23 | [Notes](notes/20210623-meeting-doers.md) |
 | Jun 16 | [Notes](notes/20210616-meeting-doers.md) |
 | Jun 09 | [Notes](notes/20210609-meeting-doers.md) |
