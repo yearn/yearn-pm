@@ -91,7 +91,7 @@
 - General updates
 - All hands contributor meeting
 - Fair Launch Summit panels - [full video](https://fairlaunchsummit.wtf/watch-live/) & [overview](https://fairlaunchsummit.wtf)
-- [Yearn Finance Newsletter](https://yearn.substack.com/p/yearn-finance-newsletter-42) & Translate to [Chinese](https://mp.weixin.qq.com/s/BWcd1RvuflfjnevYSVuS5A), [French](https://cryptoouf.com/newsletter/yearn-42), [Portuguese](https://github.com/yearn/yearn-comms/blob/portuguese/Newsletters/Yearn%20Finance%20Newsletter%20#42/Yearn%20Finance%20Newsletter%20#42.md), [Vietnamese](https://github.com/yearn/yearn-comms/blob/vietnamese/Newsletters/Yearn%20Finance%20Newsletter%20#42/Yearn%20Finance%20Newsletter%20#42.md), and [Hindi](https://octagonal-deer-bc1.notion.site/42-2fba34a5f59a403a8b166d9003a2d011)
+- [Yearn Finance Newsletter](https://yearn.substack.com/p/yearn-finance-newsletter-42) & Translated to [Chinese](https://mp.weixin.qq.com/s/BWcd1RvuflfjnevYSVuS5A), [French](https://cryptoouf.com/newsletter/yearn-42), [Portuguese](https://github.com/yearn/yearn-comms/blob/portuguese/Newsletters/Yearn%20Finance%20Newsletter%20#42/Yearn%20Finance%20Newsletter%20#42.md), [Vietnamese](https://github.com/yearn/yearn-comms/blob/vietnamese/Newsletters/Yearn%20Finance%20Newsletter%20#42/Yearn%20Finance%20Newsletter%20#42.md), and [Hindi](https://octagonal-deer-bc1.notion.site/42-2fba34a5f59a403a8b166d9003a2d011)
 - New translation branches & issues
 - Finalize landing page style
 
