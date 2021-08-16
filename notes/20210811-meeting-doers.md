@@ -59,14 +59,16 @@
 ### 1.2 Doing
 
 **Strategies:**
-⁃ Strategies: Recurring Review Gen Lev Comp.
+
+⁃ Review Gen Lev Comp
 
 **Strategist:**
 
 - Review Single-sided Curve risk profile
 
 **yMechanics:**
-⁃ yMechanics: Review stealth keeper jobs
+
+⁃ Review StealthTx jobs
 
 **API:**
 
