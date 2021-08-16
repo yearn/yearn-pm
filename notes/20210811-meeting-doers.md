@@ -60,7 +60,7 @@
 
 **Strategies:**
 
-⁃ Review Gen Lev Comp
+- Review Gen Lev Comp
 
 **Strategist:**
 
@@ -68,7 +68,7 @@
 
 **yMechanics:**
 
-⁃ Review StealthTx jobs
+- Review StealthTx jobs
 
 **API:**
 
