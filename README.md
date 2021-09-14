@@ -14,6 +14,7 @@
 
 | Date   | Notes                                    |
 | ------ | ---------------------------------------- |
+| Sep 08 | [Notes](notes/20210908-meeting-doers.md) |
 | Sep 01 | [Notes](notes/20210901-meeting-doers.md) |
 | Aug 25 | [Notes](notes/20210825-meeting-doers.md) |
 | Aug 25 | [Notes](notes/20210825-meeting-doers.md) |
