@@ -38,7 +38,9 @@
 **Strategies:**
 
 - yAcademy audit for Maker v2
-  **Strategist:**
+
+**Strategist:**
+
 - Iterate on PoC for reducing BaseStrategy contract bytecode side
 
 **Community Sites:**
