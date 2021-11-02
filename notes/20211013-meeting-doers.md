@@ -14,7 +14,7 @@
 
 **Strategies:**
 
-- PoC hedge strategies for join vaults
+- PoC hedge strategies for joint vaults
 
 **Community Sites:**
 
@@ -53,4 +53,4 @@
 
 **Marketing/Growth:**
 
-- Host twitter space on compensation in DAOs and radical transperency
+- Host twitter space on compensation in DAOs and radical transparency
