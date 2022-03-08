@@ -5,6 +5,7 @@
 - 2020 Q3 (Aug-Oct): [PDF](financials/reports/2020Q3-yearn-quarterly-report.pdf)
 - 2021 Q1 (Jan-Mar): [PDF](financials/reports/2021Q1-yearn-quarterly-report.pdf)
 - 2021 Q2 (Apr-Jun): [PDF](financials/reports/2021Q2-yearn-quarterly-report.pdf)
+- 2021 Q3 (Jul-Sep): [PDF](financials/reports/2021Q3-yearn-quarterly-report.pdf)
 
 ## Doers meeting notes
 
